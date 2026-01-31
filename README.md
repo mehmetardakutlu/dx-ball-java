@@ -4,7 +4,7 @@ A dynamic implementation of the classic DX-Ball game developed using Java and th
 
 ## Gameplay Demo
 Click to watch the gameplay:
-[YouTube Demo 1](https://youtu.be/DxoPygkJWY) | [YouTube Demo 2](https://youtu.be/PGflxhDdUw)
+[Standard Game](https://youtu.be/DxoPygk_JwY) | [Custom Game](https://youtu.be/PGfl_xhDdUw)
 
 ## Project Structure
 * **`code/MehmetArdaKutlu.java`**: The standard implementation handling basic game mechanics, collision physics, and game states.
